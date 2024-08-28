@@ -1,4 +1,4 @@
-# Jaehwi Ko  
+# Hi👋 My Name is Jaehwi Ko
 
 **Status** : Undergraduate Student Expected to Graduate in February, 2025
 
