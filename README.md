@@ -4,8 +4,7 @@
 
 **DOB** : 99.06.16  
 
-**Contacts** : [1] [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kojaehwi@gmail.com)](mailto:kojaehwi@gmail.com)    [2] kojaehwi0616@uos.ac.kr
-
+**Contacts** : [1] [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kojaehwi@gmail.com)](mailto:kojaehwi@gmail.com)    
 
 ## Education
 **University of Seoul**, Computer Science and Engineering          [2019 ~ Present]
