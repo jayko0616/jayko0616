@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="800" height="400" src="https://github.com/jayko0616/jayko0616/social/profile.png">
+ <img  width="800" height="400" src="https://github.com/jayko0616/jayko0616/profile.png">
 </p>
 <h2 align="center">Hello there! My name is Jaehwi Ko 👋</h2>
 <p align="center">I'm currently a graduate student pursuing my Master's degree in Computer Science and Engineering at Korea University 🎓. I'm deeply interested in various areas of cybersecurity, including malware analysis, deep learning, and their intersections. As I have just begun my research in this field, I'm eager to explore, learn, and contribute significantly to advancing cybersecurity and AI-driven security solutions . 
