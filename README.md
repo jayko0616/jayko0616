@@ -3,11 +3,11 @@
 </p>
 <h2 align="center">Welcome to my Github! My name is Jaehwi Ko 🇰🇷👋</h2>
 <p align="center">
-I'm currently a graduate student pursuing my Master's degree in Computer Science and Engineering at Korea University 🎓.  
+I'm currently a graduate student pursuing my Master's degree in Computer Science and Engineering at Korea University 🎓 
 <br><br>
-I'm deeply interested in various areas of cybersecurity, including malware analysis, deep learning, and their intersections.  
+I'm deeply interested in various areas of cybersecurity, including malware analysis, deep learning, and their intersections  
 <br><br>
-As I have just begun my research in this field, I'm eager to explore, learn, and contribute significantly to advancing cybersecurity and AI-driven security solutions.  
+As I have just begun my research in this field, I'm eager to explore, learn, and contribute significantly to advancing cybersecurity and AI-driven security solutions  
 </p>
 
 <p align="center">
