@@ -7,7 +7,7 @@
 
 <p align="center">When I'm not working, you can find me watching football or baseball , listening to music, or wathcing movies  </p>
 
-<p align="center"><a href="https://www.instagram.com/jayko0616/"><<img src="https://img.shields.io/badge/instagram-%23FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white"height=25></a> 
+<p align="center"><a href="https://www.instagram.com/jayko_0616"><<img src="https://img.shields.io/badge/instagram-%23FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white"height=25></a> 
 </p>
 
 <p align=center>
