@@ -14,7 +14,6 @@ As I have just begun my research in this field, I'm eager to explore, learn, and
 When I'm not working, you can find me watching football⚽ or baseball⚾,  enjoying music🎼, or browsing YouTube😂.
 </p>
 
-<p align="center"><a href="https://www.instagram.com/jayko_0616"><img src="https://img.shields.io/badge/instagram-%23FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white"height=25> 
 </p>
 
 <p align=center>
