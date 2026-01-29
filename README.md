@@ -5,13 +5,12 @@
 <p align="center">
 I'm currently a graduate student pursuing my Master's degree in Computer Science and Engineering at Korea University 🎓 
 <br><br>
-I'm deeply interested in various areas of cybersecurity, including malware analysis, deep learning, and their intersections  
+I'm deeply interested in various areas of cybersecurity, mobile security adn vulnerability detection
 <br><br>
 As I have just begun my research in this field, I'm eager to explore, learn, and contribute significantly to advancing cybersecurity and AI-driven security solutions  
 </p>
 
 <p align="center">
-When I'm not working, you can find me watching football⚽ or baseball⚾,  enjoying music🎼, or browsing YouTube😂.
 </p>
 
 </p>
@@ -28,7 +27,7 @@ When I'm not working, you can find me watching football⚽ or baseball⚾,  enjo
 <a href="https://github.com/jayko0616"><img src="https://img.shields.io/github/followers/jayko0616?style=social"></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Cybersecurity-brown"> <img src="https://img.shields.io/badge/Malware Detection-green"> <img src="https://img.shields.io/badge/Malware Classification-red"> <img src="https://img.shields.io/badge/AI Security-magenta"> <img src="https://img.shields.io/badge/Deep Learning-yellow">
+<img src="https://img.shields.io/badge/Cybersecurity-brown"> <img src="https://img.shields.io/badge/Mobile Security-green"> <img src="https://img.shields.io/badge/Vulnerability Detection-red">
 </p>
 <hr>
 <p align="center">
