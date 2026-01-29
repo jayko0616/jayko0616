@@ -7,8 +7,7 @@ I'm currently a graduate student pursuing my Master's degree in Computer Science
 <br><br>
 I'm deeply interested in various areas of cybersecurity, mobile security adn vulnerability detection
 <br><br>
-As I have just begun my research in this field, I'm eager to explore, learn, and contribute significantly to advancing cybersecurity and AI-driven security solutions  
-</p>
+
 
 <p align="center">
 </p>
