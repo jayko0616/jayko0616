@@ -31,8 +31,7 @@ I'm deeply interested in various areas of cybersecurity, mobile security adn vul
 <img src="https://img.shields.io/badge/Git%20-%23F14E32.svg?&style=for-the-badge&logo=git&logoColor=white"/>  
 <img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
- <img src="https://img.shields.io/badge/Android%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=blue"/>  
-
+<img src="https://img.shields.io/badge/Android%20-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
 <p align=center>  
