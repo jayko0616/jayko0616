@@ -15,12 +15,7 @@ I'm deeply interested in various areas of cybersecurity, mobile security adn vul
 </p>
 
 <p align=center>
-  <a href="https://github.com/jayko0616">
-    <img src="https://badges.pufler.dev/visits/jayko0616/jayko0616?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/jayko0616?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/jayko0616?style=flat-square&color=black&logo=github">
-  </a>
+
 </p>
 <p align="center">
 <a href="https://github.com/jayko0616"><img src="https://img.shields.io/github/followers/jayko0616?style=social"></a>
